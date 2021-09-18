@@ -22,4 +22,4 @@ Source : https://www.kaggle.com/c/quora-question-pairs
 - Size of Train.csv - 60MB
 - Number of rows in Train.csv = 404,290
 
-<h2>It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not</h2>
+<h3>It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not</h3>
